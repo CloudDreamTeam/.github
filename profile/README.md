@@ -27,10 +27,10 @@ Not the other way around.
 
 ## What we build
 
-- 🔧 Azure Naming Tool — standardized, scalable resource naming
-- ⚙️ Automation Pipelines — reduce manual work to zero
-- 🛡️ M365 Security & Governance — real-world protection, not checkbox compliance
-- 📊 Cloud Operations — visibility, control, predictability
+- 🔧 Azure Naming Tool - standardized, scalable resource naming
+- ⚙️ Automation Pipelines - reduce manual work to zero
+- 🛡️ M365 Security & Governance - real-world protection, not checkbox compliance
+- 📊 Cloud Operations - visibility, control, predictability
 
 ---
 
@@ -45,8 +45,8 @@ Not the other way around.
 
 ## Get in touch
 
-🌍 https://clouddream.team  
-📩 spiros@clouddream.team
+🌍 https://CloudDream.Team  
+📩 hello@CloudDream.Team
 
 ---
 
