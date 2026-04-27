@@ -21,7 +21,7 @@ No buzzwords. No overengineering. Just systems that scale and make sense.
 Technology should serve people.  
 Not the other way around.
 
-**H.O.T. — Human Optimizes Technology**
+**H.O.T. - Human Optimizes Technology**
 
 ---
 
